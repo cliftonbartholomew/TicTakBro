@@ -1,0 +1,198 @@
+Thu Sep 16 23:35:41 SAST 2021: Server started.
+Thu Sep 16 23:39:14 SAST 2021: Server started.
+Thu Sep 16 23:40:44 SAST 2021: Server started.
+Thu Sep 16 23:41:04 SAST 2021: Player 1 connected
+Thu Sep 16 23:41:04 SAST 2021: IP Address: /127.0.0.1
+Thu Sep 16 23:41:12 SAST 2021: Player 2 connected
+Thu Sep 16 23:41:12 SAST 2021: IP Address: /127.0.0.1
+Thu Sep 16 23:41:12 SAST 2021: Session 1 started.
+Thu Sep 16 23:42:44 SAST 2021: Server started.
+Thu Sep 16 23:43:05 SAST 2021: Player 1 connected
+Thu Sep 16 23:43:05 SAST 2021: IP Address: /127.0.0.1
+Thu Sep 16 23:43:11 SAST 2021: Player 2 connected
+Thu Sep 16 23:43:11 SAST 2021: IP Address: /127.0.0.1
+Thu Sep 16 23:43:11 SAST 2021: Session 1 started.
+Thu Sep 16 23:45:23 SAST 2021: Server started.
+Thu Sep 16 23:45:47 SAST 2021: Player 1 connected
+Thu Sep 16 23:45:47 SAST 2021: IP Address: /127.0.0.1
+Thu Sep 16 23:45:53 SAST 2021: Player 2 connected
+Thu Sep 16 23:45:53 SAST 2021: IP Address: /127.0.0.1
+Thu Sep 16 23:45:53 SAST 2021: Session 1 started.
+Thu Sep 16 23:53:00 SAST 2021: Server started.
+Thu Sep 16 23:53:20 SAST 2021: Player 1 connected
+Thu Sep 16 23:53:20 SAST 2021: IP Address: /127.0.0.1
+Thu Sep 16 23:53:27 SAST 2021: Player 2 connected
+Thu Sep 16 23:53:27 SAST 2021: IP Address: /127.0.0.1
+Thu Sep 16 23:53:27 SAST 2021: Session 1 started.
+Thu Sep 16 23:57:03 SAST 2021: Server started.
+Thu Sep 16 23:57:22 SAST 2021: Player 1 connected
+Thu Sep 16 23:57:22 SAST 2021: IP Address: /127.0.0.1
+Thu Sep 16 23:57:29 SAST 2021: Player 2 connected
+Thu Sep 16 23:57:29 SAST 2021: IP Address: /127.0.0.1
+Thu Sep 16 23:57:29 SAST 2021: Session 1 started.
+Fri Sep 17 00:01:43 SAST 2021: Server started.
+Fri Sep 17 00:02:06 SAST 2021: Player 1 connected
+Fri Sep 17 00:02:06 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 00:02:11 SAST 2021: Player 2 connected
+Fri Sep 17 00:02:11 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 00:02:11 SAST 2021: Session 1 started.
+Fri Sep 17 00:11:55 SAST 2021: Server started.
+Fri Sep 17 00:12:16 SAST 2021: Player 1 connected
+Fri Sep 17 00:12:16 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 00:12:23 SAST 2021: Player 2 connected
+Fri Sep 17 00:12:23 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 00:12:23 SAST 2021: Session 1 started.
+Fri Sep 17 00:17:58 SAST 2021: Server started.
+Fri Sep 17 00:18:05 SAST 2021: Player 1 connected
+Fri Sep 17 00:18:05 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 00:18:13 SAST 2021: Player 2 connected
+Fri Sep 17 00:18:13 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 00:18:13 SAST 2021: Session 1 started.
+Fri Sep 17 00:18:20 SAST 2021: Player 1 move: 4
+Fri Sep 17 00:18:28 SAST 2021: player 2 move 0
+Fri Sep 17 00:18:35 SAST 2021: Player 1 move: 1
+Fri Sep 17 00:18:51 SAST 2021: player 2 move 2
+Fri Sep 17 00:18:59 SAST 2021: Player 1 move: 2
+Fri Sep 17 00:25:33 SAST 2021: Server started.
+Fri Sep 17 00:25:59 SAST 2021: Player 1 connected
+Fri Sep 17 00:25:59 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 00:26:16 SAST 2021: Player 2 connected
+Fri Sep 17 00:26:16 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 00:26:16 SAST 2021: Session 1 started.
+Fri Sep 17 00:26:32 SAST 2021: Player 1 move: 4
+Fri Sep 17 00:27:03 SAST 2021: player 2 move 2
+Fri Sep 17 00:39:40 SAST 2021: Server started.
+Fri Sep 17 00:40:01 SAST 2021: Player 1 connected
+Fri Sep 17 00:40:01 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 00:40:05 SAST 2021: Player 2 connected
+Fri Sep 17 00:40:05 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 00:40:05 SAST 2021: Session 1 started.
+Fri Sep 17 00:40:11 SAST 2021: Player 1 move: 0
+Fri Sep 17 00:40:30 SAST 2021: player 2 move 1
+Fri Sep 17 08:32:37 SAST 2021: Server started.
+Fri Sep 17 08:32:59 SAST 2021: Player 1 connected
+Fri Sep 17 08:32:59 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 08:33:06 SAST 2021: Player 2 connected
+Fri Sep 17 08:33:06 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 08:33:06 SAST 2021: Session 1 started.
+Fri Sep 17 08:33:16 SAST 2021: Player 1 move: 0
+Fri Sep 17 08:33:21 SAST 2021: player 2 move 1
+Fri Sep 17 08:33:30 SAST 2021: Player 1 move: 2
+Fri Sep 17 08:33:35 SAST 2021: player 2 move 4
+Fri Sep 17 08:33:41 SAST 2021: Player 1 move: 7
+Fri Sep 17 08:33:45 SAST 2021: player 2 move 5
+Fri Sep 17 08:33:46 SAST 2021: Player 1 move: 8
+Fri Sep 17 08:33:49 SAST 2021: player 2 move 6
+Fri Sep 17 08:33:51 SAST 2021: Player 1 move: 3
+Fri Sep 17 08:34:35 SAST 2021: Server started.
+Fri Sep 17 08:35:44 SAST 2021: Player 1 connected
+Fri Sep 17 08:35:44 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 08:35:57 SAST 2021: Player 2 connected
+Fri Sep 17 08:35:57 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 08:35:57 SAST 2021: Session 1 started.
+Fri Sep 17 08:36:07 SAST 2021: Player 1 move: 0
+Fri Sep 17 08:36:14 SAST 2021: player 2 move 1
+Fri Sep 17 08:36:18 SAST 2021: Player 1 move: 4
+Fri Sep 17 08:36:22 SAST 2021: player 2 move 2
+Fri Sep 17 08:36:25 SAST 2021: Player 1 move: 8
+Fri Sep 17 08:57:40 SAST 2021: Server started.
+Fri Sep 17 08:58:13 SAST 2021: Player 1 connected
+Fri Sep 17 08:58:13 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 08:58:17 SAST 2021: Player 2 connected
+Fri Sep 17 08:58:17 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 08:58:17 SAST 2021: Session 1 started.
+Fri Sep 17 08:58:20 SAST 2021: Player 1 move: 0
+Fri Sep 17 08:58:30 SAST 2021: player 2 move 4
+Fri Sep 17 08:58:38 SAST 2021: Player 1 move: 8
+Fri Sep 17 08:58:45 SAST 2021: player 2 move 2
+Fri Sep 17 08:58:56 SAST 2021: Player 1 move: 6
+Fri Sep 17 08:59:01 SAST 2021: player 2 move 7
+Fri Sep 17 08:59:05 SAST 2021: Player 1 move: 3
+Fri Sep 17 08:59:41 SAST 2021: Server started.
+Fri Sep 17 09:00:12 SAST 2021: Player 1 connected
+Fri Sep 17 09:00:12 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 09:00:22 SAST 2021: Player 2 connected
+Fri Sep 17 09:00:22 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 09:00:22 SAST 2021: Session 1 started.
+Fri Sep 17 09:00:22 SAST 2021: Player 1 move: 5
+Fri Sep 17 09:00:35 SAST 2021: player 2 move 4
+Fri Sep 17 09:00:36 SAST 2021: Player 1 move: 8
+Fri Sep 17 09:00:37 SAST 2021: player 2 move 2
+Fri Sep 17 09:00:40 SAST 2021: Player 1 move: 1
+Fri Sep 17 09:00:43 SAST 2021: player 2 move 6
+Fri Sep 17 09:01:54 SAST 2021: Server started.
+Fri Sep 17 09:02:09 SAST 2021: Player 1 connected
+Fri Sep 17 09:02:09 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 09:02:12 SAST 2021: Player 2 connected
+Fri Sep 17 09:02:12 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 09:02:12 SAST 2021: Session 1 started.
+Fri Sep 17 09:02:21 SAST 2021: Player 1 move: 4
+Fri Sep 17 09:02:21 SAST 2021: player 2 move 5
+Fri Sep 17 09:02:23 SAST 2021: Player 1 move: 6
+Fri Sep 17 09:02:35 SAST 2021: player 2 move 1
+Fri Sep 17 09:02:40 SAST 2021: Player 1 move: 2
+Fri Sep 17 09:04:11 SAST 2021: Server started.
+Fri Sep 17 09:04:23 SAST 2021: Player 1 connected
+Fri Sep 17 09:04:23 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 09:04:35 SAST 2021: Player 2 connected
+Fri Sep 17 09:04:35 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 09:04:35 SAST 2021: Session 1 started.
+Fri Sep 17 09:04:47 SAST 2021: Player 1 move: 6
+Fri Sep 17 09:04:57 SAST 2021: player 2 move 4
+Fri Sep 17 09:04:59 SAST 2021: Player 1 move: 2
+Fri Sep 17 09:05:04 SAST 2021: player 2 move 0
+Fri Sep 17 09:05:07 SAST 2021: Player 1 move: 8
+Fri Sep 17 09:05:12 SAST 2021: player 2 move 5
+Fri Sep 17 09:05:16 SAST 2021: Player 1 move: 7
+Fri Sep 17 09:05:49 SAST 2021: Server started.
+Fri Sep 17 09:06:10 SAST 2021: Player 1 connected
+Fri Sep 17 09:06:10 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 09:06:13 SAST 2021: Player 2 connected
+Fri Sep 17 09:06:13 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 09:06:13 SAST 2021: Session 1 started.
+Fri Sep 17 09:06:24 SAST 2021: Player 1 move: 6
+Fri Sep 17 09:06:26 SAST 2021: player 2 move 4
+Fri Sep 17 09:06:27 SAST 2021: Player 1 move: 7
+Fri Sep 17 09:06:28 SAST 2021: player 2 move 8
+Fri Sep 17 09:06:29 SAST 2021: Player 1 move: 5
+Fri Sep 17 09:06:30 SAST 2021: player 2 move 0
+Fri Sep 17 09:07:10 SAST 2021: Player 1 connected
+Fri Sep 17 09:07:10 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 09:07:16 SAST 2021: Player 2 connected
+Fri Sep 17 09:07:16 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 09:07:16 SAST 2021: Session 2 started.
+Fri Sep 17 09:07:29 SAST 2021: Player 1 move: 6
+Fri Sep 17 09:07:31 SAST 2021: player 2 move 4
+Fri Sep 17 09:07:32 SAST 2021: Player 1 move: 2
+Fri Sep 17 09:07:33 SAST 2021: player 2 move 7
+Fri Sep 17 09:07:34 SAST 2021: Player 1 move: 1
+Fri Sep 17 09:07:35 SAST 2021: player 2 move 0
+Fri Sep 17 09:07:37 SAST 2021: Player 1 move: 8
+Fri Sep 17 09:07:39 SAST 2021: player 2 move 5
+Fri Sep 17 09:07:42 SAST 2021: Player 1 move: 3
+Fri Sep 17 09:09:32 SAST 2021: Player 1 connected
+Fri Sep 17 09:09:32 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 09:09:35 SAST 2021: Player 2 connected
+Fri Sep 17 09:09:35 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 09:09:35 SAST 2021: Session 3 started.
+Fri Sep 17 09:09:41 SAST 2021: Player 1 move: 6
+Fri Sep 17 09:09:43 SAST 2021: player 2 move 4
+Fri Sep 17 09:09:44 SAST 2021: Player 1 move: 2
+Fri Sep 17 09:09:47 SAST 2021: player 2 move 7
+Fri Sep 17 09:09:48 SAST 2021: Player 1 move: 1
+Fri Sep 17 09:09:49 SAST 2021: player 2 move 0
+Fri Sep 17 09:09:50 SAST 2021: Player 1 move: 8
+Fri Sep 17 09:09:52 SAST 2021: player 2 move 5
+Fri Sep 17 09:09:53 SAST 2021: Player 1 move: 3
+Fri Sep 17 09:10:21 SAST 2021: Player 1 connected
+Fri Sep 17 09:10:21 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 09:10:30 SAST 2021: Player 2 connected
+Fri Sep 17 09:10:30 SAST 2021: IP Address: /127.0.0.1
+Fri Sep 17 09:10:30 SAST 2021: Session 4 started.
+Fri Sep 17 09:10:39 SAST 2021: Player 1 move: 6
+Fri Sep 17 09:10:42 SAST 2021: player 2 move 7
+Fri Sep 17 09:10:47 SAST 2021: Player 1 move: 2
+Fri Sep 17 09:10:48 SAST 2021: player 2 move 4
+Fri Sep 17 09:10:52 SAST 2021: Player 1 move: 0
+Fri Sep 17 09:10:53 SAST 2021: player 2 move 3
+Fri Sep 17 09:10:59 SAST 2021: Player 1 move: 1
