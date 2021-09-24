@@ -164,10 +164,14 @@ public class GameScreen extends javax.swing.JFrame implements BroConstants, Runn
 			JOptionPane.showMessageDialog(this, "Please enter your username and try connect again");
 		} else if (!connected) {
 
+			//reset the panels from the previous game
+			for (CellPanel p : panels) {
+				p.setToken(' ');
+			}
+
 			log("trying to connect " + nameTextField.getText() + " to server.");
 //				client = new Client(nameTextField.getText());
 			client = new Client();
-
 			nameTextField.setEditable(false);//cannot change name once connected
 			//add actionlisteners with backlinks to the client the play area grid
 			for (int i = 0; i < panels.length; i++) {
@@ -298,6 +302,8 @@ public class GameScreen extends javax.swing.JFrame implements BroConstants, Runn
 		} catch (IOException ex) {
 			Logger.getLogger(GameScreen.class.getName()).log(Level.SEVERE, null, ex);
 		}
+
+		connected = false;
 
 	}
 

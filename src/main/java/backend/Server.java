@@ -22,9 +22,10 @@ public class Server implements BroConstants {
 
 	private int sessionNum = 0;
 
-//	public static void main(String[] args) {
-//		new Server();
-//	}
+	public static void main(String[] args) {
+		new Server();
+	}
+
 	//The general model for server and multiple clients:
 	//Each of the clients are waiting for a status.
 	//The server cycles through all the clients (if there are multiple clients in one session) and sends them a status update (followed by additional information if the status calls for it).
