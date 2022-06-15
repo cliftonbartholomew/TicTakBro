@@ -23,6 +23,7 @@ import javax.swing.JOptionPane;
  */
 public class GameScreen extends javax.swing.JFrame implements BroConstants, Runnable {
 
+	//Added a comment
 	private CellPanel[] panels = new CellPanel[9];
 	private Client client;
 	private boolean connected = false;
