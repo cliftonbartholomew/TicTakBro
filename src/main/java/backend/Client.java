@@ -38,8 +38,7 @@ public class Client implements BroConstants {
 	}
 
 	public void connectToServer() throws IOException {
-//		socket = new Socket("127.0.0.1", 8000);
-		socket = new Socket("160.119.252.101", 8000);
+		socket = new Socket("127.0.0.1", 8000);
 		fromServer = new DataInputStream(socket.getInputStream());
 		toServer = new DataOutputStream(socket.getOutputStream());
 
